@@ -1,3 +1,5 @@
+# Only 44%
+
 def solution(X, Y, D):
     
     counter = 0
